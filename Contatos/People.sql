@@ -1,0 +1,4 @@
+﻿CREATE TABLE [People]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
